@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The womens just complaint: or, Mans deceitfulness in love. Being a most pleasant new play-house song. Long time deceiv'd with feigned vows, at last, the females find their coyness holds not fast; for man, that noble creature, cannot love, nor fix his soul on ought but what's above: 'tis everlasting joy he centers on, and leaves soft fools, women to dote upon; which once they finding, seem to loose their care of hopes they had, and fall to flat dispair. To a pleasant new play-house tune, much in request.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1696?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06690</idno>
+            <idno type="STC">Wing W3330</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[156]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[536]</idno>
+            <idno type="EEBO-CITATION">99887360</idno>
+            <idno type="PROQUEST">ocm99887360</idno>
+            <idno type="VID">183626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183626)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[156]; A5:2[417])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The womens just complaint: or, Mans deceitfulness in love. Being a most pleasant new play-house song. Long time deceiv'd with feigned vows, at last, the females find their coyness holds not fast; for man, that noble creature, cannot love, nor fix his soul on ought but what's above: 'tis everlasting joy he centers on, and leaves soft fools, women to dote upon; which once they finding, seem to loose their care of hopes they had, and fall to flat dispair. To a pleasant new play-house tune, much in request.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Hospital-gate, in West-smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1670-1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Verse: "O love thou art a treasure ..."</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="536" facs="tcp:183626:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <hi>The Womens juſt Complaint:</hi> OR, Mans Deceitfulneſs in Love.</head>
+            <head type="sub">Being a moſt Pleaſant New Play-houſe Song.</head>
+            <argument>
+               <l>Long time deceiv'd with feigned Vows, at laſt,</l>
+               <l>The Females find their Coyneſs holds not faſt;</l>
+               <l>For Man, that Noble Creature, cannot Love,</l>
+               <l>Nor fix his Soul on ought but what's above:</l>
+               <l>'Tis Everlaſting joy he Centers on,</l>
+               <l>And leaves ſoft Fools, Women to dote upon;</l>
+               <l>Which once they finding, ſeem to looſe their Care</l>
+               <l>Of hopes they had, and fall to flat diſpair.</l>
+            </argument>
+            <opener>To a pleaſant New play-houſe Tune, much in requeſt.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>O</hi> Love thou art a Treaſure,</l>
+               <l>could Conſtancy remain,</l>
+               <l>But for an hour of Pleaſure,</l>
+               <l>we feel an Age of Pain:</l>
+               <l>How eager is the Lover.</l>
+               <l>But when his Ioys are over,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women do diſcover,</hi>
+                  </l>
+                  <l>
+                     <hi>the vow of Men are vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor Women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>In vain are all their Swearings,</l>
+               <l>'tis but your Love to gain,</l>
+               <l>In vain their promiſ'd Fairings,</l>
+               <l>their Luſts for to obtain:</l>
+               <l>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir Cringing and the<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Bowing,</l>
+               <l>Is worſe t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en Thee and Thouing,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women find the Vowing</hi>
+                  </l>
+                  <l>
+                     <hi>of men, is all but vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor Women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>In v<gap reason="illegible: missing" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n their mean and Carriage,</l>
+               <l>their promis'd Love they feign,</l>
+               <l>In vain they promiſe Marriage,</l>
+               <l>maids honours for to ſtain:</l>
+               <l>In vain their Songs and Dances,</l>
+               <l>Plays Maſquerades Romances,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women find the Fancies,</hi>
+                  </l>
+                  <l>
+                     <hi>and vows of men are vain:</hi>
+                  </l>
+                  <l>
+                     <hi>poor Women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <pb n="537" facs="tcp:183626:1"/>
+               <!-- PDF PAGE 14 -->
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>All Wedlock tyes Defieing,</l>
+               <l>when once their Wills they gain,</l>
+               <l>Scoffing at, or denying,</l>
+               <l>what once did cauſe their pain:</l>
+               <l>When with a thouſand Kiſſes,</l>
+               <l>And with as many Wiſhes,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women they with bliſſes,</hi>
+                  </l>
+                  <l>
+                     <hi>deceiv'd, which vows are vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And whoſoe're believes them,</l>
+               <l>they ſnare them 'tis moſt plain,</l>
+               <l>And when they'r took, deceive them,</l>
+               <l>and leave them to complain:</l>
+               <l>Whilſt we poor Fools at Mourning,</l>
+               <l>They our Griefs are ſcorning,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women then take warning,</hi>
+                  </l>
+                  <l>
+                     <hi>for men are falſe and vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor Women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>They breath falſe ſighs to win us,</l>
+               <l>and Counterfeit Loves pain,</l>
+               <l>And into Bonds they bring us,</l>
+               <l>with Flatteries ſo vain.</l>
+               <l>By praiſing of our beauties;</l>
+               <l>And Swearing 'tis their Duties,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Woman while ſhe mute is,</hi>
+                  </l>
+                  <l>
+                     <hi>but find at laſt all vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor woman, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Much like to Airy Vapours,</l>
+               <l>are all the Vows they feign,</l>
+               <l>Or like Expiring Tapours,</l>
+               <l>that ne'r will burn again:</l>
+               <l>But leave us in deep Sorrow,</l>
+               <l>For joys we did but borrow,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women bid Good-morrow,</hi>
+                  </l>
+                  <l>
+                     <hi>and leave us to Complain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor Women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>'Tis ſure the God of Lovers,</l>
+               <l>made not his Laws in vain,</l>
+               <l>He better joys diſcovers,</l>
+               <l>and makes his precepts plain:</l>
+               <l>Why them ſhould man delude us,</l>
+               <l>When he has ſo <hi>Judas'd</hi> us,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women why be ſcrew'd thus,</hi>
+                  </l>
+                  <l>
+                     <hi>on things we can't obtain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Let us then be contented,</l>
+               <l>let Lordly ſtill remain,</l>
+               <l>For him he was invented,</l>
+               <l>let us not wiſh in vain:</l>
+               <l>For what though we endeavour,</l>
+               <l>Yet can deſerve him never,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women wiſhing ever,</hi>
+                  </l>
+                  <l>
+                     <hi>yet all our wiſhes vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor women,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then let us be contented,</l>
+               <l>and ſtrive no more with pain,</l>
+               <l>Leaſt we at laſt repent it,</l>
+               <l>and paſt all hopes, Complain:</l>
+               <l>When there is no Relieving</l>
+               <l>But ſtill we muſt be grieving</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Poor Women, by deceiving,</hi>
+                  </l>
+                  <l>
+                     <hi>men ſhew their vows are vain:</hi>
+                  </l>
+                  <l>
+                     <hi>Poor Women, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>P. Brooksby,</hi> at the <hi>Hoſpital-gate,</hi> in <hi>Weſt-ſmithfield.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
